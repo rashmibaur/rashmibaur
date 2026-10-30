@@ -15,9 +15,9 @@ UX Designer at **Fractal Analytics**. Master's in Information Design from **NID 
 | What | Link |
 |------|------|
 | Portfolio (live) | https://rashmibaur-portfolio.vercel.app |
-| Unveiling Biases in AI: interactive product | `https://<bias-ai-demo>.vercel.app` _(placeholder)_ |
-| Electoral bonds: interactive data narrative | `https://<electoral-bonds-demo>.vercel.app` _(placeholder)_ |
-| MBTI data portrait | `https://<mbti-demo>.vercel.app` _(placeholder)_ |
+| Unveiling Biases in AI: audit dashboard ([source](https://github.com/rashmibaur/bias-ai)) | https://rashmibaur-bias-ai.vercel.app |
+| StyleIQ: new footwear launch platform ([source](https://github.com/rashmibaur/styleiq)) | https://rashmibaur-styleiq.vercel.app |
+| Climate vulnerability & social protection: data story ([source](https://github.com/rashmibaur/climate-vulnerability-story)) | https://rashmibaur-climate-story.vercel.app |
 | Portfolio source | https://github.com/rashmibaur/portfolio |
 | Medium articles | `https://medium.com/@<handle>` _(placeholder)_ |
 
